@@ -1,0 +1,25 @@
+{
+  "name": "vscode-tabler-icon-theme",
+  "private": true,
+  "version": "1.0.2",
+  "displayName": "Tabler Icons",
+  "description": "Tabler Icons theme for Visual Studio Code",
+  "publisher": "piotr@kulpinski.pl",
+  "license": "MIT",
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "vs-tabler",
+        "label": "Tabler Icons",
+        "path": "./vs-tabler-icon-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piotrkulpinski/vscode-tabler-icons.git"
+  }
+}

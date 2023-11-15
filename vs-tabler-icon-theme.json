@@ -1,0 +1,137 @@
+{
+  "iconDefinitions": {
+    "_folder": {
+      "iconPath": "./icons/dark/folder.svg"
+    },
+    "_folder_open": {
+      "iconPath": "./icons/dark/folder-open.svg"
+    },
+    "_file": {
+      "iconPath": "./icons/dark/file.svg"
+    },
+    "_docker": {
+      "iconPath": "./icons/dark/file-docker.svg"
+    },
+    "_git": {
+      "iconPath": "./icons/dark/file-git.svg"
+    },
+    "_javascript": {
+      "iconPath": "./icons/dark/file-javascript.svg"
+    },
+    "_markdown": {
+      "iconPath": "./icons/dark/file-markdown.svg"
+    },
+    "_prisma": {
+      "iconPath": "./icons/dark/file-prisma.svg"
+    },
+    "_python": {
+      "iconPath": "./icons/dark/file-python.svg"
+    },
+    "_react": {
+      "iconPath": "./icons/dark/file-react.svg"
+    },
+    "_rust": {
+      "iconPath": "./icons/dark/file-rust.svg"
+    },
+    "_sass": {
+      "iconPath": "./icons/dark/file-sass.svg"
+    },
+    "_typescript": {
+      "iconPath": "./icons/dark/file-typescript.svg"
+    },
+    "_vite": {
+      "iconPath": "./icons/dark/file-vite.svg"
+    },
+    "_vue": {
+      "iconPath": "./icons/dark/file-vue.svg"
+    },
+    "_folder_light": {
+      "iconPath": "./icons/light/folder.svg"
+    },
+    "_folder_open_light": {
+      "iconPath": "./icons/light/folder-open.svg"
+    },
+    "_file_light": {
+      "iconPath": "./icons/light/file.svg"
+    },
+    "_docker_light": {
+      "iconPath": "./icons/light/file-docker.svg"
+    },
+    "_git_light": {
+      "iconPath": "./icons/light/file-git.svg"
+    },
+    "_javascript_light": {
+      "iconPath": "./icons/light/file-javascript.svg"
+    },
+    "_markdown_light": {
+      "iconPath": "./icons/light/file-markdown.svg"
+    },
+    "_prisma_light": {
+      "iconPath": "./icons/light/file-prisma.svg"
+    },
+    "_python_light": {
+      "iconPath": "./icons/light/file-python.svg"
+    },
+    "_react_light": {
+      "iconPath": "./icons/light/file-react.svg"
+    },
+    "_rust_light": {
+      "iconPath": "./icons/light/file-rust.svg"
+    },
+    "_sass_light": {
+      "iconPath": "./icons/light/file-sass.svg"
+    },
+    "_typescript_light": {
+      "iconPath": "./icons/light/file-typescript.svg"
+    },
+    "_vite_light": {
+      "iconPath": "./icons/light/file-vite.svg"
+    },
+    "_vue_light": {
+      "iconPath": "./icons/light/file-vue.svg"
+    },
+  },
+  "folder": "_folder",
+  "folderExpanded": "_folder_open",
+  "file": "_file",
+  "fileExtensions": {
+    "prisma": "_prisma"
+  },
+  "languageIds": {
+    "dockerfile": "_docker",
+    "ignore": "_git",
+    "git-commit": "_git",
+    "javascriptreact": "_react",
+    "javascript": "_javascript",
+    "markdown": "_markdown",
+    "python": "_python",
+    "rust": "_rust",
+    "scss": "_sass",
+    "typescript": "_typescript",
+    "typescriptreact": "_typescript",
+    "dockercompose": "_docker",
+    "sass": "_sass",
+    "vue": "_vue"
+  },
+  "light": {
+    "folder": "_folder_light",
+    "folderExpanded": "_folder_open_light",
+    "file": "_file_light",
+    "languageIds": {
+      "dockerfile": "_docker_light",
+      "ignore": "_git_light",
+      "git-commit": "_git_light",
+      "javascriptreact": "_react_light",
+      "javascript": "_javascript_light",
+      "markdown": "_markdown_light",
+      "python": "_python_light",
+      "rust": "_rust_light",
+      "scss": "_sass_light",
+      "typescript": "_typescript_light",
+      "typescriptreact": "_typescript_light",
+      "dockercompose": "_docker_light",
+      "sass": "_sass_light",
+      "vue": "_vue_light"
+    }
+  },
+}
