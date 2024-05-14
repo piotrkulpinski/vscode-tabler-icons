@@ -1,7 +1,7 @@
 {
   "name": "vscode-tabler-icon-theme",
   "private": true,
-  "version": "1.0.2",
+  "version": "1.0.4",
   "displayName": "Tabler Icons",
   "description": "Tabler Icons theme for Visual Studio Code",
   "publisher": "piotr@kulpinski.pl",
